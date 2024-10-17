@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://safigiwesu.pages.dev/sitemap.xml
